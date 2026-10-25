@@ -1,5 +1,9 @@
 # Cùng học
 
+[Mã nguồn GitHub](https://github.com/TranKhoa06/cung-hoc) · [Mở website](https://trankhoa06.github.io/cung-hoc/)
+
+GitHub Pages hiện phục vụ bản mẫu cho tới khi chủ dự án cấu hình Supabase. Ảnh và bộ học thật sẽ được thêm qua khu quản trị sau khi kết nối dữ liệu.
+
 Web trắc nghiệm và flashcard cho nhóm, giao diện dựa trên HTML FPGA được cung cấp. Một website có khu vực học và khu vực quản trị, chạy trên GitHub Pages, dùng Supabase cho tài khoản/dữ liệu/ảnh riêng và gọi AI.
 
 ## Chạy trên máy

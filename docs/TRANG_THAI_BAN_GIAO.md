@@ -17,7 +17,7 @@
 
 ## Chưa có kết nối thực tế
 
-- Chưa tạo/đưa mã lên repository GitHub của người dùng.
+- Đã tạo và đưa mã lên [TranKhoa06/cung-hoc](https://github.com/TranKhoa06/cung-hoc), cấu hình GitHub Pages tại [trankhoa06.github.io/cung-hoc](https://trankhoa06.github.io/cung-hoc/). Khi chưa cấu hình Supabase, website phục vụ bản mẫu trên thiết bị.
 - Chưa cấu hình một dự án Supabase thật; chưa chạy Google OAuth và lưu ảnh online đầu cuối.
 - Chưa gán API key hoặc gọi AI thật. Các kiểm thử AI dùng phản hồi giả lập để kiểm tra quy tắc xử lý, không khẳng định chất lượng giải bài của một model.
 - Chưa kiểm tra trực quan/trình duyệt thật vì công cụ trình duyệt bị tắt trong Work; các kiểm thử giao diện dùng DOM kiểm thử.
