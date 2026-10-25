@@ -1,0 +1,4 @@
+{
+  "compilerOptions": { "target": "ES2022", "module": "ESNext", "moduleResolution": "Bundler", "lib": ["ES2022", "DOM"], "strict": true, "noEmit": true, "allowImportingTsExtensions": true, "skipLibCheck": true },
+  "include": ["functions/deno-check.d.ts", "functions/verify-answer/*.ts"]
+}

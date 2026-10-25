@@ -1,0 +1,6 @@
+project_id = "cung-hoc"
+
+[functions.verify-answer]
+# The handler verifies the user JWT with auth.getUser() and checks current admin membership.
+# Disabling the legacy gateway JWT check supports projects using asymmetric signing keys.
+verify_jwt = false
